@@ -1,5 +1,5 @@
 # PERCEPTRON_SIMPLE_AND
-Entrenamiento de un perceptron simple AND codigo en pytho
+Entrenamiento de un perceptron simple compuerta (AND) codigo en python
 - - - - - -  - - - - - -  -
 Dirigirse al enlace para ver como funciona un percetron simple en Google Colab
 https://colab.research.google.com/drive/1GzKmqvqcr_2n88QvaIEhBOvYnUTpr-Gl
@@ -11,7 +11,7 @@ entrenamiento (AND)
 Entradas
 
 | A | B | Salida|
------------------
+- - - - -
 | 1 | 1 |   1   |
 | 1 | 0 |   0   |
 | 0 | 1 |   0   |
