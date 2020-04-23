@@ -1,7 +1,7 @@
 # PERCEPTRON_SIMPLE_AND
 Entrenamiento de un perceptron simple compuerta (AND) codigo en python
 - - - - - -  - - - - - -  -
-Dirigirse al enlace para ver como funciona un percetron simple en Google Colab
+Click en el enlace para ver como funciona un percetron simple en GOOGLE COLAB
 https://colab.research.google.com/drive/1GzKmqvqcr_2n88QvaIEhBOvYnUTpr-Gl
 
 Se utiliza la funcion de ESCALON [1, si y >= 0 ; 0, si y < 0]
