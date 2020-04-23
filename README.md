@@ -11,6 +11,7 @@ entrenamiento (AND)
 Entradas
 
 | A | B | Salida|
+ * * * * * * * * 
 | 1 | 1 |   1   |
 
 | 1 | 0 |   0   |
